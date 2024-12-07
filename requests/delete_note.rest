@@ -1,0 +1,11 @@
+DELETE http://localhost:3001/api/notes/5
+
+###
+
+DELETE http://localhost:3001/api/notes/3
+Content-Type: application/json
+
+###
+ 
+DELETE http://localhost:3001/api/notes/3
+Accept: application/json
